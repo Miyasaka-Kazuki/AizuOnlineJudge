@@ -1,0 +1,4 @@
+﻿  MySolve.cpp
+c:\visualstudio\aizuonlinejudge\54.rangesearch(kdtree)\54.rangesearch(kdtree)\mysolve.cpp(116): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  54.RangeSearch(kDTree).vcxproj -> C:\VisualStudio\AizuOnlineJudge\54.RangeSearch(kDTree)\Debug\54.RangeSearch(kDTree).exe
+  54.RangeSearch(kDTree).vcxproj -> C:\VisualStudio\AizuOnlineJudge\54.RangeSearch(kDTree)\Debug\54.RangeSearch(kDTree).pdb (Partial PDB)

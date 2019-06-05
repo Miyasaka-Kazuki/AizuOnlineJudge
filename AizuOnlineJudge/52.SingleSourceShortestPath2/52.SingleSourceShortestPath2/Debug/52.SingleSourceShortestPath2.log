@@ -1,0 +1,5 @@
+﻿  MySolve.cpp
+c:\visualstudio\aizuonlinejudge\52.singlesourceshortestpath2\52.singlesourceshortestpath2\mysolve.cpp(56): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\visualstudio\aizuonlinejudge\52.singlesourceshortestpath2\52.singlesourceshortestpath2\mysolve.cpp(81): warning C4101: 'parent': ローカル変数は 1 度も使われていません。
+  52.SingleSourceShortestPath2.vcxproj -> C:\VisualStudio\AizuOnlineJudge\52.SingleSourceShortestPath2\Debug\52.SingleSourceShortestPath2.exe
+  52.SingleSourceShortestPath2.vcxproj -> C:\VisualStudio\AizuOnlineJudge\52.SingleSourceShortestPath2\Debug\52.SingleSourceShortestPath2.pdb (Partial PDB)

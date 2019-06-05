@@ -1,0 +1,6 @@
+﻿  MySolve.cpp
+c:\visualstudio\aizuonlinejudge\59.minimumspanningtree\59.minimumspanningtree\mysolve.cpp(85): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\visualstudio\aizuonlinejudge\59.minimumspanningtree\59.minimumspanningtree\mysolve.cpp(83): warning C4101: 'secondVec': ローカル変数は 1 度も使われていません。
+c:\visualstudio\aizuonlinejudge\59.minimumspanningtree\59.minimumspanningtree\mysolve.cpp(83): warning C4101: 'firstVec': ローカル変数は 1 度も使われていません。
+  59.MinimumSpanningTree.vcxproj -> C:\VisualStudio\AizuOnlineJudge\59.MinimumSpanningTree\Debug\59.MinimumSpanningTree.exe
+  59.MinimumSpanningTree.vcxproj -> C:\VisualStudio\AizuOnlineJudge\59.MinimumSpanningTree\Debug\59.MinimumSpanningTree.pdb (Partial PDB)

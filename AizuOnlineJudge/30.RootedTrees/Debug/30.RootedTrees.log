@@ -1,0 +1,4 @@
+﻿  MySolve.cpp
+c:\visualstudio\aizuonlinejudge\30.rootedtrees\mysolve.cpp(28): warning C4715: 'Tree::searchRootIndex': 値を返さないコントロール パスがあります。
+  30.RootedTrees.vcxproj -> C:\VisualStudio\AizuOnlineJudge\30.RootedTrees\Debug\30.RootedTrees.exe
+  30.RootedTrees.vcxproj -> C:\VisualStudio\AizuOnlineJudge\30.RootedTrees\Debug\30.RootedTrees.pdb (Full PDB)

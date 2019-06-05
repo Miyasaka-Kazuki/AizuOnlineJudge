@@ -1,0 +1,7 @@
+﻿  MySolve.cpp
+c:\visualstudio\aizuonlinejudge\56.topologicalsort\56.topologicalsort\mysolve.cpp(18): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\visualstudio\aizuonlinejudge\56.topologicalsort\56.topologicalsort\mysolve.cpp(36): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\visualstudio\aizuonlinejudge\56.topologicalsort\56.topologicalsort\mysolve.cpp(38): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\visualstudio\aizuonlinejudge\56.topologicalsort\56.topologicalsort\mysolve.cpp(41): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  56.TopologicalSort.vcxproj -> C:\VisualStudio\AizuOnlineJudge\56.TopologicalSort\Debug\56.TopologicalSort.exe
+  56.TopologicalSort.vcxproj -> C:\VisualStudio\AizuOnlineJudge\56.TopologicalSort\Debug\56.TopologicalSort.pdb (Partial PDB)

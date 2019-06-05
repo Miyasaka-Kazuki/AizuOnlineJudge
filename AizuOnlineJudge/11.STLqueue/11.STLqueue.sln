@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.STLqueue", "11.STLqueue.vcxproj", "{685E1E1A-9B74-4364-8B87-7457ED459AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{685E1E1A-9B74-4364-8B87-7457ED459AEF}.Debug|x64.ActiveCfg = Debug|x64
+		{685E1E1A-9B74-4364-8B87-7457ED459AEF}.Debug|x64.Build.0 = Debug|x64
+		{685E1E1A-9B74-4364-8B87-7457ED459AEF}.Debug|x86.ActiveCfg = Debug|Win32
+		{685E1E1A-9B74-4364-8B87-7457ED459AEF}.Debug|x86.Build.0 = Debug|Win32
+		{685E1E1A-9B74-4364-8B87-7457ED459AEF}.Release|x64.ActiveCfg = Release|x64
+		{685E1E1A-9B74-4364-8B87-7457ED459AEF}.Release|x64.Build.0 = Release|x64
+		{685E1E1A-9B74-4364-8B87-7457ED459AEF}.Release|x86.ActiveCfg = Release|Win32
+		{685E1E1A-9B74-4364-8B87-7457ED459AEF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

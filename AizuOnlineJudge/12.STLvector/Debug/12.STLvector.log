@@ -1,0 +1,4 @@
+﻿  Example.cpp
+c:\visualstudio\aizuonlinejudge\12.stlvector\example.cpp(6): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  12.STLvector.vcxproj -> C:\VisualStudio\AizuOnlineJudge\12.STLvector\Debug\12.STLvector.exe
+  12.STLvector.vcxproj -> C:\VisualStudio\AizuOnlineJudge\12.STLvector\Debug\12.STLvector.pdb (Full PDB)

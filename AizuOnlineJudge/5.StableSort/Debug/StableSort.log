@@ -1,0 +1,7 @@
+﻿  MySolve.cpp
+c:\visualstudio\aizuonlinejudge\stablesort\mysolve.cpp(80): warning C4101: 'out': ローカル変数は 1 度も使われていません。
+c:\visualstudio\aizuonlinejudge\stablesort\mysolve.cpp(97): warning C4101: 'out': ローカル変数は 1 度も使われていません。
+  Answer.cpp
+  コードを生成中...
+  StableSort.vcxproj -> C:\VisualStudio\AizuOnlineJudge\StableSort\Debug\StableSort.exe
+  StableSort.vcxproj -> C:\VisualStudio\AizuOnlineJudge\StableSort\Debug\StableSort.pdb (Full PDB)

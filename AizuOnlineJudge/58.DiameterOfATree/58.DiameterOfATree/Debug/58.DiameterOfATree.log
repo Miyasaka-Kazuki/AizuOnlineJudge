@@ -1,0 +1,4 @@
+﻿  MySolve.cpp
+c:\visualstudio\aizuonlinejudge\58.diameterofatree\58.diameterofatree\mysolve.cpp(24): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  58.DiameterOfATree.vcxproj -> C:\VisualStudio\AizuOnlineJudge\58.DiameterOfATree\Debug\58.DiameterOfATree.exe
+  58.DiameterOfATree.vcxproj -> C:\VisualStudio\AizuOnlineJudge\58.DiameterOfATree\Debug\58.DiameterOfATree.pdb (Partial PDB)

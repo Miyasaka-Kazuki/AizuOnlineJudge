@@ -1,0 +1,4 @@
+﻿  MySolve.cpp
+c:\visualstudio\aizuonlinejudge\50.minimumspanningtree\50.minimumspanningtree\mysolve.cpp(59): warning C4101: 'parent': ローカル変数は 1 度も使われていません。
+  50.MinimumSpanningTree.vcxproj -> C:\VisualStudio\AizuOnlineJudge\50.MinimumSpanningTree\Debug\50.MinimumSpanningTree.exe
+  50.MinimumSpanningTree.vcxproj -> C:\VisualStudio\AizuOnlineJudge\50.MinimumSpanningTree\Debug\50.MinimumSpanningTree.pdb (Partial PDB)

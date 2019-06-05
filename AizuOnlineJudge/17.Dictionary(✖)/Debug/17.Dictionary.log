@@ -1,0 +1,7 @@
+﻿  MyAnswer.cpp
+c:\visualstudio\aizuonlinejudge\17.dictionary\myanswer.cpp(10): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\visualstudio\aizuonlinejudge\17.dictionary\myanswer.cpp(28): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+c:\visualstudio\aizuonlinejudge\17.dictionary\myanswer.cpp(44): warning C4244: '引数': '__int64' から 'int' への変換です。データが失われる可能性があります。
+c:\visualstudio\aizuonlinejudge\17.dictionary\myanswer.cpp(63): warning C4244: '引数': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  17.Dictionary.vcxproj -> C:\VisualStudio\AizuOnlineJudge\17.Dictionary\Debug\17.Dictionary.exe
+  17.Dictionary.vcxproj -> C:\VisualStudio\AizuOnlineJudge\17.Dictionary\Debug\17.Dictionary.pdb (Full PDB)

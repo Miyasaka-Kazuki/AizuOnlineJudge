@@ -1,0 +1,4 @@
+﻿  MySolve.cpp
+c:\visualstudio\aizuonlinejudge\45.matrixchainmultiplication\45.matrixchainmultiplication\mysolve.cpp(38): warning C4293: '<<': シフト数が負の値であるか、大きすぎます。定義されていない動作です
+  45.MatrixChainMultiplication.vcxproj -> C:\VisualStudio\AizuOnlineJudge\45.MatrixChainMultiplication\Debug\45.MatrixChainMultiplication.exe
+  45.MatrixChainMultiplication.vcxproj -> C:\VisualStudio\AizuOnlineJudge\45.MatrixChainMultiplication\Debug\45.MatrixChainMultiplication.pdb (Partial PDB)

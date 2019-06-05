@@ -1,0 +1,4 @@
+﻿  MySolve.cpp
+c:\visualstudio\aizuonlinejudge\22.kochcurve\mysolve.cpp(6): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+  22.KochCurve.vcxproj -> C:\VisualStudio\AizuOnlineJudge\22.KochCurve\Debug\22.KochCurve.exe
+  22.KochCurve.vcxproj -> C:\VisualStudio\AizuOnlineJudge\22.KochCurve\Debug\22.KochCurve.pdb (Full PDB)

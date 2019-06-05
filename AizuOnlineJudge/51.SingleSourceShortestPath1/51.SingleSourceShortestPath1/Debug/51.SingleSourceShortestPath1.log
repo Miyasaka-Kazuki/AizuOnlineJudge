@@ -1,0 +1,4 @@
+﻿  MySolve.cpp
+c:\visualstudio\aizuonlinejudge\51.singlesourceshortestpath1\51.singlesourceshortestpath1\mysolve.cpp(57): warning C4101: 'parent': ローカル変数は 1 度も使われていません。
+  51.SingleSourceShortestPath1.vcxproj -> C:\VisualStudio\AizuOnlineJudge\51.SingleSourceShortestPath1\Debug\51.SingleSourceShortestPath1.exe
+  51.SingleSourceShortestPath1.vcxproj -> C:\VisualStudio\AizuOnlineJudge\51.SingleSourceShortestPath1\Debug\51.SingleSourceShortestPath1.pdb (Partial PDB)

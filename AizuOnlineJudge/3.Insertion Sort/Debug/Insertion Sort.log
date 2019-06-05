@@ -1,0 +1,2 @@
+﻿MySolve.obj : error LNK2005: _main は既に Answer.obj で定義されています。
+C:\VisualStudio\AizuOnlineJudge\Insertion Sort\Debug\Insertion Sort.exe : fatal error LNK1169: 1 つ以上の複数回定義されているシンボルが見つかりました。

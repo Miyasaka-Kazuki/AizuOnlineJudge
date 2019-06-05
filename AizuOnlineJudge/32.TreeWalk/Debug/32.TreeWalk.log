@@ -1,0 +1,4 @@
+﻿  MySolve.cpp
+c:\visualstudio\aizuonlinejudge\32.treewalk\mysolve.cpp(30): warning C4715: 'Tree::searchRootIndex': 値を返さないコントロール パスがあります。
+  32.TreeWalk.vcxproj -> C:\VisualStudio\AizuOnlineJudge\32.TreeWalk\Debug\32.TreeWalk.exe
+  32.TreeWalk.vcxproj -> C:\VisualStudio\AizuOnlineJudge\32.TreeWalk\Debug\32.TreeWalk.pdb (Full PDB)
